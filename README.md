@@ -1,9 +1,6 @@
 # merge-contributor
 
-# Merge Contributors
-
 # Core Devs & Misc Devs
-
 - [Parithosh Jayanthi (EF devops engineer)](https://github.com/parithosh)
 - [Mario Vega (implementation tester - EF)](https://github.com/marioevz)
 - [Adria Massanet](https://github.com/adria0)
@@ -41,14 +38,12 @@
 - [RicMoo (ethers.js)](https://github.com/ricmoo) 
 - [SeaMonkey82 (Client pair testing)](https://github.com/SeaMonkey82/) 
 
-Ipsilon
-
+### Ipsilon
 - [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) 
 - [Andrei Maiboroda - ipsilon team, EF](https://github.com/gumb0) 
 - [Paweł Bylica (chfast) ipsilon team, EF](https://github.com/chfast) 
 
-Solidity
-
+### Solidity
 - [Alex Beregszaszi](https://github.com/axic/) 
 - [Harikrishnan Mulackal](https://github.com/hrkrshnn/) 
 - [Kaan Uzdogan](https://github.com/kuzdogan/) 
@@ -56,7 +51,6 @@ Solidity
 - [Leonardo de Sa Alt](https://github.com/leonardoalt/) 
 
 # EF / Researchers
-
 - [Carl Beekhuizen](https://github.com/CarlBeek) 
 - [Dankrad Feist](https://github.com/dankrad) 
 - [Danny Ryan (coordinator, EF) “protocol support team”](https://github.com/djrtwo) 
@@ -81,14 +75,12 @@ Solidity
 - [Zhenfei Zhang](https://github.com/zhenfeizhang/) 
 - Joseph Schweitzer NO GITHUB
 
-Robust Incentives Group
-
+### Robust Incentives Group
 - [Barnabé Monnot](https://github.com/barnabemonnot) 
 - [Anders Elowsson](https://github.com/anderselowsson/) 
 - [Caspar Schwarz-Schilling](https://github.com/casparschwa/) 
 
-TXRX
-
+### TXRX
 - [Alex Vlasov](https://github.com/ericsson49/) 
 - [Anton Nashatyrev](https://github.com/Nashatyrev/) 
 - [Mikhail Kalinin](https://github.com/mkalinin/) 
@@ -96,7 +88,6 @@ TXRX
 - [Sam Calder-Mason](https://github.com/samcm) 
 
 # Cat Herders
-
 - [Pooja Ranjan](https://github.com/poojaranjan) 
 - [William Schwab](https://github.com/wschwab) 
 - [zkDoof](https://github.com/zkdoof) 
@@ -111,15 +102,13 @@ TXRX
 - [Gunnar](https://github.com/gunnim) 
 
 # Educators + Media
-
 - [Anthony Sassano](https://github.com/sassal) 
 - David Hoffman - NO GITHUB
 - Ryan Sean Adams - NO GITHUB
 - Christine Kim - NO GITHUB
 - MacKenzie Sigalos - NO GITHUB
 
-# Staking:
-
+# Staking
 - [Superphiz](https://github.com/superphiz/) 
 - [Colfax Selby](https://github.com/colfax23) 
 - [Nixorokish](https://github.com/nixorokish) 
@@ -135,14 +124,11 @@ TXRX
 - [paradoxicalsphere](https://github.com/paradoxicalsphere) 
 
 # Community Stewards
-
 - [JT Nichol](https://github.com/jtnichol) 
 - [Jonathan Mann](https://github.com/songadaymann) 
 
-# Client Teams:
-
-# Prysm
-
+# Client Teams
+## Prysm
 - [Preston Van Loon](https://github.com/prestonvanloon) 
 - [Raul Jordan](https://github.com/rauljordan) 
 - [Terence Tsao](https://github.com/terencechain) 
@@ -164,8 +150,7 @@ TXRX
 - [Leo Lara](https://github.com/leolara) 
 - [ahadda5](https://github.com/ahadda5) 
 
-# Lighthouse
-
+## Lighthouse
 - [Michael Sproul](https://github.com/michaelsproul) 
 - [Paul Hauner](https://github.com/paulhauner) 
 - [Pawan Dhananjay](https://github.com/pawanjay176) 
@@ -177,8 +162,7 @@ TXRX
 - [ethDreamer](https://github.com/ethDreamer) 
 - [Mehdi Zerouali](https://github.com/zedt3ster) 
 
-# Nimbus
-
+## Nimbus
 - [Dustin Brody](https://github.com/tersec) 
 - [Jacek Sieka](https://github.com/arnetheduck) 
 - [zah](https://github.com/zah) 
@@ -193,8 +177,7 @@ TXRX
 - [Giovanni Petrantoni](https://github.com/sinkingsugar) 
 - [Dmitriy Ryajov](https://github.com/dryajov) 
 
-# Teku
-
+## Teku
 - [Ben Edgington](https://github.com/benjaminion) 
 - [Adrian Sutton (Lead Blockchain Protocol Engineer at ConsenSys)](https://github.com/ajsutton) 
 - [Paul Harris](https://github.com/rolfyone) 
@@ -209,8 +192,7 @@ TXRX
 - [Cem Özer](https://github.com/cemozerr) 
 - [Mehdi Aouadi](https://github.com/mehdi-aouadi) 
 
-# Lodestar
-
+## Lodestar
 - [dapplion](https://github.com/dapplion) 
 - [Tuyen Nguyen](https://github.com/tuyennhv) 
 - [Cayman Nava](https://github.com/wemeetagain) 
@@ -221,8 +203,7 @@ TXRX
 - [Phil Ngo](https://github.com/philknows) 
 - [Afri](https://github.com/q9f) 
 
-# Geth
-
+## Geth
 - [Marius Van Der Wijden](https://github.com/MariusVanDerWijden) 
 - [Péter Szilágyi](https://github.com/karalabe) 
 - [Martin Holst Swende](https://github.com/holiman) 
@@ -241,8 +222,7 @@ TXRX
 - [Evolution404](https://github.com/Evolution404) 
 - [ligi](https://github.com/ligi) 
 
-# Erigon
-
+## Erigon
 - [Andrew Ashikhmin](https://github.com/yperbasis) 
 - [Alexey Akhunov](https://github.com/AlexeyAkhunov) 
 - [Artem Vorotnikov](https://github.com/vorot93) 
@@ -264,8 +244,7 @@ TXRX
 - [Eugene](https://github.com/gelfand) 
 - [Chase Wright](https://github.com/MysticRyuujin) 
 
-# Besu
-
+## Besu
 - [Sally MacFarlane](https://github.com/macfarla) 
 - [Gary Schulte](https://github.com/garyschulte) 
 - [matkt](https://github.com/matkt) 
@@ -288,8 +267,7 @@ TXRX
 - [Nicolas Massart](https://github.com/NicolasMassart) 
 - [Abdelhamid Bakhta](https://github.com/abdelhamidbakhta) 
 
-# Nethermind
-
+## Nethermind
 - [Lukasz Rozmej](https://github.com/LukaszRozmej) 
 - [Marek Moraczyński](https://github.com/MarekM25) 
 - [Tomasz Kajetan Stańczak](https://github.com/tkstanczak) 
