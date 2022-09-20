@@ -1,5 +1,10 @@
 # merge-contributor
 
+If you're not on this list, but should receive a Merge Contributor GitPOAP, please fill out the form:   
+https://forms.gle/pSaSf3zzzPZLAeys6
+
+If you want to be removed from this public list (does not affect GitPOAP eligibility), feel free to make a pull request.
+
 # Core Devs & Misc Devs
 - [Parithosh Jayanthi (EF devops engineer)](https://github.com/parithosh)
 - [Mario Vega (implementation tester - EF)](https://github.com/marioevz)
@@ -24,6 +29,8 @@
 - [ryancreatescopy (ethereum.org)](https://github.com/ryancreatescopy) 
 - [Hursit Tarcan (ethereum.org)](https://github.com/hursittarcan) 
 - [Nuno Loureiro (ethereum.org)](https://github.com/nloureiro) 
+- [konopkja (ethereum.org)](https://github.com/konopkja)
+- [Nicolás Quiroz (ESP)](https://github.com/nhsz)
 - [Rafael Matias (EF DevOps)](https://github.com/skylenet/) 
 - [Andrew Day (JS)](https://github.com/acolytec3/) 
 - [Gabriel (JS)](https://github.com/gabrocheleau/) 
@@ -95,8 +102,8 @@
 - [Matt Gernett (lightclient)](https://github.com/lightclient) 
 - [Sam Wilson (ConsenSys Quilt team and is an EIP Editor)](https://github.com/samwilsn) 
 - [PandaPip1](https://github.com/Pandapip1/) 
-- [Alex Beregszaszi (Axic)](https://github.com/axic) Alex Beregszaszi (Axic)
-- [Greg Colvin](https://github.com/gcolvin) Greg Colvin
+- [Alex Beregszaszi (Axic)](https://github.com/axic)
+- [Greg Colvin](https://github.com/gcolvin)
 - [Hudson Jameson](https://github.com/Souptacular) 
 - [Alita Moore](https://github.com/alita-moore) 
 - [Gunnar](https://github.com/gunnim) 
