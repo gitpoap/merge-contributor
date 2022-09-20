@@ -9,7 +9,6 @@ If you want to be removed from this public list (does not affect GitPOAP eligibi
 - [Parithosh Jayanthi (EF devops engineer)](https://github.com/parithosh)
 - [Mario Vega (implementation tester - EF)](https://github.com/marioevz)
 - [Adria Massanet](https://github.com/adria0)
-- [Alex Beregszaszi (Axic) - epsilon team (implementation of evm proposals, EF)](https://github.com/axic)
 - [Chris Reitwiessner (Solidity)](https://github.com/chriseth)
 - [Corwin Smith (ethereum.org)](https://github.com/corwintines)
 - [Dan Buchholz](https://github.com/dtbuchholz)
