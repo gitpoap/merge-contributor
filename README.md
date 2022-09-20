@@ -81,6 +81,7 @@ If you want to be removed from this public list (does not affect GitPOAP eligibi
 - [protolambda](https://github.com/protolambda) 
 - [Zhenfei Zhang](https://github.com/zhenfeizhang/) 
 - Joseph Schweitzer NO GITHUB
+- Aya Miyagotchi NO GITHUB
 
 ### Robust Incentives Group
 - [Barnabé Monnot](https://github.com/barnabemonnot) 
