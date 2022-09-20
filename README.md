@@ -79,7 +79,7 @@ If you want to be removed from this public list (does not affect GitPOAP eligibi
 - [Mark Simkin](https://github.com/msimkin.github.io/) 
 - [protolambda](https://github.com/protolambda) 
 - [Zhenfei Zhang](https://github.com/zhenfeizhang/) 
-- Joseph Schweitzer NO GITHUB
+- [Joseph Schweitzer](https://github.com/ethjoe/)
 - Aya Miyagotchi NO GITHUB
 
 ### Robust Incentives Group
