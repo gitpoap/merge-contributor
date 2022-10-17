@@ -29,6 +29,7 @@ If you want to be removed from this public list (does not affect GitPOAP eligibi
 - [Hursit Tarcan (ethereum.org)](https://github.com/hursittarcan) 
 - [Nuno Loureiro (ethereum.org)](https://github.com/nloureiro) 
 - [konopkja (ethereum.org)](https://github.com/konopkja)
+- [ethosdev (ethereum.org)](https://github.com/ethosdev)
 - [Nicolás Quiroz (ESP)](https://github.com/nhsz)
 - [Rafael Matias (EF DevOps)](https://github.com/skylenet/) 
 - [Andrew Day (JS)](https://github.com/acolytec3/) 
@@ -42,7 +43,6 @@ If you want to be removed from this public list (does not affect GitPOAP eligibi
 - [Ognyan Genev (Portal)](https://github.com/ogenev/) 
 - [Piper Merriam (Portal)](https://github.com/pipermerriam/) 
 - [RicMoo (ethers.js)](https://github.com/ricmoo) 
-- [SeaMonkey82 (Client pair testing)](https://github.com/SeaMonkey82/) 
 
 ### Ipsilon
 - [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) 
@@ -130,9 +130,13 @@ If you want to be removed from this public list (does not affect GitPOAP eligibi
 - [Coincashew](https://github.com/coincashew) 
 - [paradoxicalsphere](https://github.com/paradoxicalsphere) 
 
-# Community Stewards
+# Community Contributors
+- [SeaMonkey82 (Client pair testing)](https://github.com/SeaMonkey82/) 
 - [JT Nichol](https://github.com/jtnichol) 
 - [Jonathan Mann](https://github.com/songadaymann) 
+- [Patches](https://github.com/jshufro)
+- [EdwardPrentice](https://github.com/EdwardPrentice)
+- [Phill](https://github.com/SavPhill)
 
 # Client Teams
 ## Prysm
